@@ -1,4 +1,4 @@
 payload:
   - "yfsp.tv"
   - "anyrouter.top"
-  - "sss2-e1.pipecdn.vip"
+  - "pipecdn.vip"
