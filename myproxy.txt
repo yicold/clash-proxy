@@ -1,5 +1,5 @@
 payload:
   - 'yfsp.tv'
-  - 'anyrouter.top
+  - 'anyrouter.top'
   - 'pipecdn.vip'
   - 'sss111-e1.pipecdn.vip'
