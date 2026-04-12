@@ -1,4 +1,4 @@
 #payload:
 yfsp.tv
 anyrouter.top
-pipecdn.vip
+*.pipecdn.vip
