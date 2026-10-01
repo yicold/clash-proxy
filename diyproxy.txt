@@ -2,3 +2,13 @@
 yfsp.tv
 anyrouter.top
 *.pipecdn.vip
++.last-war.com
++.lastwar.com
++.lastwar.fun
++.lastwar.net
++.rivergame.net
++.onstove.com
++.appsflyer.com
++.adjust.com
++.photonengine.com
++.vivox.com
