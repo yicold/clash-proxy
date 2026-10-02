@@ -1,14 +1,19 @@
-#payload:
-yfsp.tv
-anyrouter.top
-*.pipecdn.vip
-+.last-war.com
-+.lastwar.com
-+.lastwar.fun
-+.lastwar.net
-+.rivergame.net
-+.onstove.com
-+.appsflyer.com
-+.adjust.com
-+.photonengine.com
-+.vivox.com
+payload:
+  # > Base
+  - DOMAIN-SUFFIX,yfsp.tv
+  - DOMAIN-SUFFIX,anyrouter.top
+  - DOMAIN-SUFFIX,pipecdn.vip
+
+  # > Last War 游戏与发行商
+  - DOMAIN-SUFFIX,last-war.com
+  - DOMAIN-KEYWORD,lastwar
+  - DOMAIN-SUFFIX,rivergame.net
+  - DOMAIN-SUFFIX,onstove.com
+
+  # > 游戏统计与日志 (防止加载卡 99%)
+  - DOMAIN-SUFFIX,appsflyer.com
+  - DOMAIN-SUFFIX,adjust.com
+
+  # > 游戏语音与对战服务 (Photon & Vivox)
+  - DOMAIN-SUFFIX,photonengine.com
+  - DOMAIN-SUFFIX,vivox.com
